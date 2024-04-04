@@ -1,0 +1,26 @@
+body{
+    background-image: url(chico_moedas.png) ;
+    background-repeat: round;
+}
+
+input, select, button{
+    padding: 10px;
+}
+
+.container{
+    border: 1px solid red;
+    padding: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+#titulo{
+    margin-bottom: 50px;
+    color: #ffff;
+}
+
+#resultado{
+    margin-top: 50px;
+    color: white;
+}
